@@ -1,9 +1,9 @@
-import { useState } from 'react'
 
 
 
 import './App.css'
-import Dynamic from './dynamic'
+// import Dynamic from './Dynamic'
+import Dynamic from './Dynamic'
 
 
 
